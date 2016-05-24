@@ -1,0 +1,30 @@
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe.config
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.pdb
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csprojResolveAssemblyReference.cache
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Form1.resources
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Properties.Resources.resources
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csproj.GenerateResource.Cache
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.exe
+d:\users\suuser\documents\visual studio 2015\Projects\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\RPS_Step1_Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe.config
+D:\Users\SUUSER\Desktop\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.exe
+D:\Users\SUUSER\Desktop\RPS_Step1_Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe.config
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.exe
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csprojResolveAssemblyReference.cache
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Form1.resources
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Properties.Resources.resources
+D:\Users\SUUSER\Desktop\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csproj.GenerateResource.Cache
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe.config
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.exe
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.exe
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\bin\Debug\RPS_Step1_Client.pdb
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csprojResolveAssemblyReference.cache
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Form1.resources
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.Properties.Resources.resources
+D:\Users\SUUSER\Desktop\berkeatac_Atac_Berke_step2\Client\RPS_Step1_Client\obj\Debug\RPS_Step1_Client.csproj.GenerateResource.Cache
